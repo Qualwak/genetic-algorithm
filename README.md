@@ -1,6 +1,13 @@
 # Genetic Algorithm: making art from any image
 
 # Installation guide
+  What you need:
+    - Python 3.6
+    - PyCharm
+  Guide:
+    - Clone the project
+    - Open it through PyCharm
+    - Set interpreter: Press (Ctr + Alt + S) -> Project: Pictures -> Project Interpreter -> (Put path to your interpreter)
 
 # Useful setting
 #### In `image_manager.py` there is a configuration that uses inverse colors. There is opportunity to turn it on. `use_inverse_img = True` - uses inverse colors. By default it is `False`.
