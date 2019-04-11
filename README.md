@@ -1,10 +1,10 @@
 # Genetic Algorithm: making art from any image
 
 # Installation guide
-  What you need:
+  * What you need:
     - Python 3.6
     - PyCharm
-  Guide:
+  * Guide:
     - Clone the project
     - Open it through PyCharm
     - Set interpreter: Press (Ctr + Alt + S) -> Project: Pictures -> Project Interpreter -> (Put path to your interpreter)
