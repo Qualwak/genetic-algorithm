@@ -3,7 +3,7 @@
 # Installation guide
 
 # Useful setting
-### in image_manager.py there is a configuration that uses inverse color. There is opportunity to change it. `use_inverse_img = True` - uses inverse colors. `False` - not.
+#### In `image_manager.py` there is a configuration that uses inverse colors. There is opportunity to change it. `use_inverse_img = True` - uses inverse colors. `False` - not.
 
 # Examples
 
